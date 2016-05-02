@@ -1,0 +1,18 @@
+{
+  //Url для REST запросов
+  "baseUrl" :"https://3dsec.sberbank.ru/payment/rest/",
+  //имя пользователя
+  "userName" :"test",
+  //пароль пользователя
+  "password" :"test",
+  //валюта
+  "currency" :"RUB",
+  //язык
+  "language" :"ru",
+  //режим отображения
+  "pageView" :"DESKTOP",
+
+
+
+  "timeout":7
+}

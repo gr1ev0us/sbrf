@@ -1,0 +1,5 @@
+.idea
+vendor
+docs
+src/configs/local.config.json
+tst*
